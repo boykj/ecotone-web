@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "12": "^1.0.2",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.26.0",
     "babel-loader": "7.x",
@@ -15,6 +16,7 @@
     "file-loader": "^0.11.2",
     "glob": "^7.1.2",
     "js-yaml": "^3.9.1",
+    "node": "^16.10.0",
     "node-sass": "^6.0.1",
     "path-complete-extname": "^0.1.0",
     "postcss-loader": "^2.0.6",
